@@ -1,6 +1,6 @@
 - 👋 Hola, soy @UrsulaMoya
 - 👀 Estoy interesada en Ciencia de Datos
-- 🌱 Actualmente me encuentro incursionando en tecnologías asociadas y promoción de mi perfil
+- 🌱 Actualmente me encuentro incursionando en tecnologías asociadas y actualizando de mi perfil
 
 
 <!---
